@@ -13,6 +13,7 @@ public class MainCompleteBinaryTree {
 		Transaction t4 = new Transaction("X", 150);
 		Transaction t5= new Transaction("X", 50);
 		
+		// TODO : Atibhav: DO it properly
 		pq.insert(t1);
 		pq.insert(t2);
 		pq.insert(t3);
